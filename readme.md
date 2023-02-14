@@ -47,16 +47,16 @@
 
 ## 硬件
 
-|   Key    |                            Value                            | Other |
-| :------: | :---------------------------------------------------------: | ----- |
-|   CPU    | Intel® Core™ i5-8259U Processor (6M Cache, up to 3.80 GHz)  | 4c8h  |
-|   显卡   |      Intel CoffeeLake-U GT3e [Iris Plus Graphics 655]       |       |
-|   内存   |                                                             |       |
-| 无线网卡 | Broadcom BCM43xx 1.0 (7.77.111.1 AirPortDriverBrcmNIC-1766) |       |
-| 有线网卡 |          Intel I219V6 PCI Express Gigabit Ethernet          |       |
-|   声卡   |                       Realtek ALC293                        |       |
-|   硬盘   |                    WD Blue SN570 1TB SSD                    |       |
-|   接口   | USB-C (DP1.2) X1<br/>HDMI 2.0a X1<br/>RJ45 网口 X1<br/>...  |       |
+|   Key    |                            Value                             | Other      |
+| :------: | :----------------------------------------------------------: | ---------- |
+|   CPU    |  Intel® Core™ i5-8259U Processor (6M Cache, up to 3.80 GHz)  | 4c8h       |
+|   显卡   |       Intel CoffeeLake-U GT3e [Iris Plus Graphics 655]       |            |
+|   内存   |      Lexar LD4AS016G-H2666G - 16 GB (1 rank, 16 banks)       | x2 共 32GB |
+| 无线网卡 | Broadcom BCM43xx 1.0 (7.77.111.1 AirPortDriverBrcmNIC-1766)  | 94360cs2   |
+| 有线网卡 |           Intel(R) Ethernet Connection (6) I219-V            |            |
+|   声卡   | Realtek ALC233 @ Intel Cannon Point-LP PCH - cAVS (Audio, Voice, Speech) [D0] |            |
+|   硬盘   |                    WD Blue SN570 1TB SSD                     |            |
+|   接口   |  USB-C (DP1.2) X1<br/>HDMI 2.0a X1<br/>RJ45 网口 X1<br/>...  |            |
 
 ## 正常工作
 
