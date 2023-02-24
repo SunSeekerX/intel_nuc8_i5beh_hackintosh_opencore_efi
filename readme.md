@@ -101,6 +101,13 @@
 
 
 
+## 更新日志
+
+### 2023-02-24
+
+- 增加了 CFGLock 查看工具，需要按住空格显示辅助工具
+- 默认隐藏辅助工具，按住空格显示
+
 ## 参考
 
 - [[OpenCore] NUC8最新OC EFI 持续更新（已更新至0.8.7+13.1）](https://bbs.pcbeta.com/viewthread-1935097-1-1.html) by yippeeghost
