@@ -13,12 +13,12 @@
 
 ## Bios 设置
 
-Devices -> USB -> Port Device Charging Mode: off
-Devices -> USB -> USB Legacy -> Disabled
-Security -> Thunderbolt Security Level: Legacy Mode
-Power -> Wake on LAN from S4/S5: Stay Off
-Boot -> Boot Configuration -> Network Boot: Disable
-Boot -> Secure Boot -> Disable
+- Devices -> USB -> Port Device Charging Mode: off
+- Devices -> USB -> USB Legacy -> Disabled
+- Security -> Thunderbolt Security Level: Legacy Mode
+- Power -> Wake on LAN from S4/S5: Stay Off
+- Boot -> Boot Configuration -> Network Boot: Disable
+- Boot -> Secure Boot -> Disable
 
 ## 安装说明
 
