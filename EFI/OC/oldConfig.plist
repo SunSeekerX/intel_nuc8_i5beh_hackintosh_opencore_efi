@@ -763,11 +763,11 @@
                 <key>SystemMemoryStatus</key>
                 <string>Auto</string>
                 <key>SystemProductName</key>
-                <string></string>
+                <string>Macmini8,1</string>
                 <key>SystemSerialNumber</key>
-                <string></string>
+                <string>C07WNDYGJYVX</string>
                 <key>SystemUUID</key>
-                <string></string>
+                <string>23DFED40-8F0D-4499-A3B1-140243FAAC62</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>

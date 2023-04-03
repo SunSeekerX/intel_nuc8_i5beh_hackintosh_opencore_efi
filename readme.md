@@ -6,10 +6,10 @@
 
 完美 😀。
 
-|       Key        |         Value          |
-| :--------------: | :--------------------: |
-| OpenCore version |         0.8.9          |
-|  MacOS version   | Ventura 13.2.1 (22D68) |
+|       Key        |         Value         |
+| :--------------: | :-------------------: |
+| OpenCore version |      0.9.0 - Mod      |
+|  MacOS version   | Ventura 13.3 (22E252) |
 
 ## Bios 设置
 
@@ -84,6 +84,10 @@
 |  Kernel  | <img src="./assets/iShot_2023-02-15_14.45.03.webp" alt="iShot_2023-02-07_20.09.44" style="zoom:25%;" /> |
 
 ## 更新日志
+
+### 2023-04-03
+
+- 更新到 oc 0.9.0
 
 ### 2023-03-10
 
